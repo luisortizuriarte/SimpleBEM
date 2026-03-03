@@ -9,7 +9,6 @@ prognostic temperatures and solar incidence geometry.
 
 from typing import Dict
 import math
-import matplotlib.pyplot as plt
 
 class BuildingEnergyModel:
     """

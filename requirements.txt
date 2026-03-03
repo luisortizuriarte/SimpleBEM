@@ -1,5 +1,7 @@
-fastapi
-uvicorn
-pydantic
-matplotlib
-jupyter
+# Core dependencies (SimpleBEM uses only Python standard library)
+# No external dependencies required for simpleBEM.py
+
+# Optional dependencies for testing, visualization, and analysis
+matplotlib>=3.5.0
+jupyter>=1.0.0
+numpy>=1.21.0
