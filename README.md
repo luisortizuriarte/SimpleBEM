@@ -219,3 +219,5 @@ See `SimpleBEM_test.ipynb` for examples of multi-step simulations with visualiza
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**Notice:** This model was produced with assistance from an AI model.
